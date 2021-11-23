@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="300px" viewBox="0 0 350 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>状态:60/异常态/权限异常</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="49.8792597%" x2="0%" y2="49.8911111%" id="linearGradient-2">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="49.5910035%" x2="0%" y2="49.6311491%" id="linearGradient-3">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Pro1.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="异常页-403" transform="translate(-628.000000, -168.000000)">
+            <g id="FusionModule备份" transform="translate(628.000000, 168.000000)">
+                <g id="状态:60/异常态/权限异常">
+                    <g id="@子组件/background/default/gary/hill" fill="url(#linearGradient-1)" opacity="0.16">
+                        <path d="M0,231 C43.3705512,213.333333 101.703885,204.5 175,204.5 C248.296115,204.5 306.629449,213.333333 350,231" id="路径-19"></path>
+                    </g>
+                    <ellipse id="椭圆形备份-8" fill="url(#linearGradient-2)" opacity="0.16" cx="168.5" cy="228" rx="75" ry="3.5"></ellipse>
+                    <ellipse id="椭圆形备份-8" fill="url(#linearGradient-3)" opacity="0.16" cx="234.25" cy="232.5" rx="40.75" ry="3.5"></ellipse>
+                    <g id="objects/element/lock" transform="translate(93.000000, 70.000000)">
+                        <path d="M72.5,0.5 C93.4868205,0.5 110.5,17.5131795 110.5,38.5 L110.5,60 L97.5,60 L97.5,37.5 C97.5,23.6928813 86.3071187,12.5 72.5,12.5 C58.6928813,12.5 47.5,23.6928813 47.5,37.5 L47.5,37.5 L47.5,60 L34.5,60 L34.5,38.5 C34.5,17.5131795 51.5131795,0.5 72.5,0.5 Z" id="形状结合" fill="#D7DAE0"></path>
+                        <rect id="矩形" fill="#E6E8ED" x="0.5" y="44.5" width="143.5" height="113" rx="8"></rect>
+                        <rect id="矩形备份-2" fill="#C9CDD4" x="106" y="108" width="61" height="53" rx="8"></rect>
+                        <circle id="椭圆形" fill="#F0F2F5" cx="72.5" cy="101" r="30"></circle>
+                        <path d="M72.5,85.5 C78.2989899,85.5 83,90.2010101 83,96 C83,100.571681 80.0782823,104.460957 76.0002282,105.902449 L76,113 C76,114.932997 74.4329966,116.5 72.5,116.5 C70.5670034,116.5 69,114.932997 69,113 L69.0007655,105.902801 C64.9221924,104.461589 62,100.572052 62,96 C62,90.2010101 66.7010101,85.5 72.5,85.5 Z" id="形状结合" fill="#D7DAE0"></path>
+                        <path d="M136.75,83.5 C137.992641,83.5 139,84.5073593 139,85.75 L139.000575,88.2995863 C143.592296,89.4213529 147,93.5627204 147,98.5 C147,103.43728 143.592296,107.578647 139.000575,108.700414 L139,113.75 C139,114.992641 137.992641,116 136.75,116 C135.507359,116 134.5,114.992641 134.5,113.75 L134.500209,108.809794 C129.657666,107.876016 126,103.615155 126,98.5 C126,93.3848449 129.657666,89.1239836 134.500209,88.1902064 L134.5,85.75 C134.5,84.5073593 135.507359,83.5 136.75,83.5 Z M136.5,92 C132.910149,92 130,94.9101491 130,98.5 C130,102.089851 132.910149,105 136.5,105 C140.089851,105 143,102.089851 143,98.5 C143,94.9101491 140.089851,92 136.5,92 Z" id="形状结合" fill="#B4B8BF"></path>
+                        <rect id="矩形" fill="#D7DAE0" x="106" y="111.5" width="61" height="51" rx="8"></rect>
+                        <circle id="椭圆形" fill="#DFE2E8" cx="136.5" cy="136.5" r="15"></circle>
+                        <circle id="Oval" fill="#C9CDD4" cx="136.75" cy="136.75" r="7.75"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

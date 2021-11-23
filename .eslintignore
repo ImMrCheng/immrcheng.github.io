@@ -1,0 +1,3 @@
+# eslintignore files
+node_modules
+dist

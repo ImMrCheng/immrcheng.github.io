@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="351px" height="300px" viewBox="0 0 351 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>状态:60/异常态/404</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="49.2939223%" x2="0%" y2="49.3632282%" id="linearGradient-3">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="49.3575946%" x2="0%" y2="49.4206507%" id="linearGradient-4">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="49.6534632%" x2="0%" y2="49.687478%" id="linearGradient-5">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-6" cx="145.191663" cy="98.325" rx="2.92633705" ry="1"></ellipse>
+    </defs>
+    <g id="Pro1.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="异常页-404" transform="translate(-628.000000, -168.000000)">
+            <g id="FusionModule备份" transform="translate(628.000000, 168.000000)">
+                <g id="状态:60/异常态/404">
+                    <g id="@子组件/background/default/gary/cloud" fill="url(#linearGradient-1)" fill-rule="evenodd" opacity="0.16">
+                        <path d="M0,231 C43.3904734,213.333333 101.750602,204.5 175.080386,204.5 C248.41017,204.5 306.770298,213.333333 350.160772,231" id="路径-19"></path>
+                    </g>
+                    <g id="编组" stroke-width="1" fill-rule="evenodd" transform="translate(205.615816, 144.821454) rotate(-345.000000) translate(-205.615816, -144.821454) translate(126.329412, 89.321454)" fill="url(#linearGradient-2)" opacity="0.26">
+                        <polygon id="路径-21" points="53.885237 2.0659919 0.376313069 107.222806 158.44889 110.772903 105.516526 0.272902704"></polygon>
+                    </g>
+                    <ellipse id="椭圆形" fill="url(#linearGradient-3)" fill-rule="evenodd" opacity="0.16" cx="105.048232" cy="227" rx="31.0142398" ry="3.5"></ellipse>
+                    <ellipse id="椭圆形备份-7" fill="url(#linearGradient-4)" fill-rule="evenodd" opacity="0.16" cx="255.117134" cy="227" rx="32.5149288" ry="3.5"></ellipse>
+                    <ellipse id="椭圆形备份-9" fill="url(#linearGradient-5)" fill-rule="evenodd" opacity="0.16" cx="178.331879" cy="221.5" rx="44.2703261" ry="3.5"></ellipse>
+                    <g id="@子组件/objects/grayelement/ufoobjects/grayelement/ufo" transform="translate(223.102435, 65.500000) rotate(12.000000) translate(-223.102435, -65.500000) translate(133.061093, -24.500000)">
+                        <path d="M91.6170648,63.45 C110.638201,63.45 126.057878,78.5441136 126.057878,97.1636463 C126.057878,101.461338 125.236376,105.57121 123.738702,109.351 L59.4954273,109.351 C57.9977532,105.57121 57.1762517,101.461338 57.1762517,97.1636463 C57.1762517,78.5441136 72.595929,63.45 91.6170648,63.45 Z" id="形状结合" fill="#E6E8ED" fill-rule="evenodd"></path>
+                        <path d="M89.3909303,117.9 C134.146544,117.9 171.078548,114.011893 171.078548,105.949057 C171.078548,97.8862203 134.796955,91.35 90.0413413,91.35 C45.2857276,91.35 9.00413413,97.8862203 9.00413413,105.949057 C9.00413413,114.011893 44.6353166,117.9 89.3909303,117.9 Z" id="椭圆形" fill="#C9CDD4" fill-rule="evenodd"></path>
+                        <ellipse id="椭圆形" fill="#E6E8ED" fill-rule="evenodd" cx="91.6170648" cy="115.425" rx="24.5362655" ry="6.075"></ellipse>
+                        <ellipse id="椭圆形" fill="#E6E8ED" fill-rule="evenodd" cx="89.8162379" cy="95.175" rx="2.92634359" ry="1"></ellipse>
+                        <ellipse id="椭圆形备份-2" fill="#E6E8ED" fill-rule="evenodd" transform="translate(61.003009, 96.075000) scale(-1, 1) rotate(2.000000) translate(-61.003009, -96.075000) " cx="61.0030087" cy="96.075" rx="2.92634196" ry="1"></ellipse>
+                        <ellipse id="椭圆形备份-3" fill="#E6E8ED" fill-rule="evenodd" transform="translate(36.241640, 99.225000) scale(-1, 1) rotate(4.000000) translate(-36.241640, -99.225000) " cx="36.2416399" cy="99.225" rx="2.92633705" ry="1"></ellipse>
+                        <ellipse id="椭圆形备份" fill="#E6E8ED" fill-rule="evenodd" transform="translate(119.079674, 95.625000) rotate(2.000000) translate(-119.079674, -95.625000) " cx="119.079674" cy="95.625" rx="2.92634196" ry="1"></ellipse>
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="椭圆形备份-4" fill="#E6E8ED" fill-rule="evenodd" transform="translate(145.191663, 98.325000) rotate(4.000000) translate(-145.191663, -98.325000) " xlink:href="#path-6"></use>
+                    </g>
+                    <g id="@子组件/objects/grayelement/404objects/grayelement/404" transform="translate(75.034451, 50.000000)" fill-rule="evenodd" stroke-width="1">
+                        <g id="编组" transform="translate(0.000000, 113.000000)">
+                            <rect id="矩形" fill="#D7DAE0" x="33.5637975" y="15.0537634" width="11.1879325" height="49.0322581" rx="5.59396625"></rect>
+                            <rect id="矩形备份-23" fill="#D7DAE0" x="173.412954" y="15.0537634" width="11.1879325" height="49.0322581" rx="5.59396625"></rect>
+                            <g id="编组-2" transform="translate(65.406375, 4.731183)">
+                                <rect id="矩形" fill="#D7DAE0" x="4.30305096" y="0" width="61.9639338" height="51.1827957"></rect>
+                                <rect id="矩形" fill="#E6E8ED" x="0" y="0" width="70.5700357" height="12.9032258" rx="5.16129032"></rect>
+                                <rect id="矩形备份-26" fill="#E6E8ED" x="0" y="25.3763441" width="70.5700357" height="12.9032258" rx="5.16129032"></rect>
+                                <rect id="矩形备份-27" fill="#E6E8ED" x="0" y="40.8602151" width="70.5700357" height="12.9032258" rx="5.16129032"></rect>
+                                <ellipse id="椭圆形" fill="#D7DAE0" cx="62.824544" cy="6.4516129" rx="2.15152548" ry="2.15053763"></ellipse>
+                                <ellipse id="椭圆形备份-3" fill="#D7DAE0" cx="62.824544" cy="31.827957" rx="2.15152548" ry="2.15053763"></ellipse>
+                                <ellipse id="椭圆形备份-4" fill="#D7DAE0" cx="62.824544" cy="47.311828" rx="2.15152548" ry="2.15053763"></ellipse>
+                            </g>
+                            <path d="M30.5516618,14.1801137 C33.6397056,14.1801137 36.1430597,16.6834678 36.1430597,19.7715116 L36.1430597,67.1102089 C36.1430597,70.1982526 33.6397056,72.7016067 30.5516618,72.7016067 C27.463618,72.7016067 24.960264,70.1982526 24.960264,67.1102089 L24.960264,19.7715116 C24.960264,16.6834678 27.463618,14.1801137 30.5516618,14.1801137 Z" id="矩形" fill="#DFE2E8" transform="translate(30.551662, 43.440860) rotate(-270.000000) translate(-30.551662, -43.440860) "></path>
+                            <path d="M170.831123,14.1801137 C173.919167,14.1801137 176.422521,16.6834678 176.422521,19.7715116 L176.422521,67.1102089 C176.422521,70.1982526 173.919167,72.7016067 170.831123,72.7016067 C167.743079,72.7016067 165.239725,70.1982526 165.239725,67.1102089 L165.239725,19.7715116 C165.239725,16.6834678 167.743079,14.1801137 170.831123,14.1801137 Z" id="矩形备份-24" fill="#DFE2E8" transform="translate(170.831123, 43.440860) rotate(-270.000000) translate(-170.831123, -43.440860) "></path>
+                            <path d="M44.9976186,4.05529954 C47.2372987,6.29395131 47.2381323,9.92435659 44.9994805,12.1640367 C44.99886,12.1646575 44.9982394,12.1652781 44.9976186,12.1658986 L12.171487,44.9769585 C9.93047678,47.2169398 6.29817255,47.2169398 4.05716233,44.9769585 C1.81748224,42.7383068 1.81664862,39.1079015 4.05530039,36.8682214 C4.0559209,36.8676006 4.05654154,36.86698 4.05716233,36.8663594 L36.8832939,4.05529954 C39.1243041,1.81531825 42.7566084,1.81531825 44.9976186,4.05529954 Z" id="矩形" fill="#E6E8ED"></path>
+                            <path d="M184.846775,4.05529954 C187.086455,6.29395131 187.087288,9.92435659 184.848637,12.1640367 C184.848016,12.1646575 184.847396,12.1652781 184.846775,12.1658986 L152.020643,44.9769585 C149.779633,47.2169398 146.147329,47.2169398 143.906318,44.9769585 C141.666638,42.7383068 141.665805,39.1079015 143.904457,36.8682214 C143.905077,36.8676006 143.905698,36.86698 143.906318,36.8663594 L176.73245,4.05529954 C178.97346,1.81531825 182.605765,1.81531825 184.846775,4.05529954 Z" id="矩形备份-25" fill="#E6E8ED"></path>
+                            <ellipse id="椭圆形" fill="#D7DAE0" cx="146.303733" cy="43.4408602" rx="1.72122038" ry="1.72043011"></ellipse>
+                            <text id="oops!" opacity="0.600000024" font-family="Helvetica" font-size="17.2043011" font-weight="normal"></text>
+                            <ellipse id="椭圆形" fill="#D7DAE0" cx="6.0516129" cy="60.0150038" rx="1.72903226" ry="2.40060015"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

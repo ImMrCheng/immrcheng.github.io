@@ -1,0 +1,57 @@
+html,
+body {
+  scroll-behavior: smooth;
+  // width: 100%;
+}
+body {
+  margin: 0;
+  color:#333;
+  min-width: 1250px;
+}
+#app {
+  width: 100%;
+  height: 100%;
+  overflow: hidden; // 此样式可以让页面在手机端缩放后右侧不产生白边
+}
+.page-404 {
+  .tips {
+    font-size 48px;
+    color #333;
+    text-align center;
+    margin 200px;
+  }
+}
+// 走马灯指示器的进度条样式
+.process-carousel {
+  .el-carousel__indicators--horizontal {
+    display: flex;
+    .el-carousel__button {
+      width 100px;
+      height: 3px;
+      position: relative;
+      background-color: rgba(255, 255, 255, 0.6);
+    }
+    .el-carousel__indicator {
+      &.is-active {
+        .el-carousel__button {
+          background-color: rgba(255, 255, 255, 0.6);
+          &:before {
+            content: "";
+            position: absolute;
+            background-color: #fff;
+            opacity: 1;
+            left: 0;
+            top: 0;
+            height: inherit;
+            width: 0px;
+            animation: banner-animate 3s linear forwards;
+          }
+        }
+      }
+    }
+  }
+  @keyframes banner-animate{
+    from {width: 0px;}
+    to {width: inherit;}
+  }
+}

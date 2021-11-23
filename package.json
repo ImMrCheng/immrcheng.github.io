@@ -1,0 +1,79 @@
+{
+  "name": "myhub",
+  "version": "1.0.0",
+  "description": "我的个人github网站",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "cz": "git add . && git cz",
+    "zip": "node bin/zip.js",
+    "log": "changelog-sn -i CHANGELOG.md -s -r 2",
+    "pub": "npm install && sh bin/release.sh",
+    "fix": "eslint --fix src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImMrCheng/immrcheng.github.io.git"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/ImMrCheng/immrcheng.github.io/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "element-resize-detector": "^1.2.3",
+    "element-ui": "2.15.3",
+    "mockjs": "1.1.0",
+    "vue": "2.6.11",
+    "vue-router": "3.0.7",
+    "vuex": "3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "4.1.2",
+    "@vue/cli-plugin-eslint": "4.1.2",
+    "@vue/cli-plugin-router": "4.1.2",
+    "@vue/cli-plugin-vuex": "4.1.2",
+    "@vue/cli-service": "4.1.2",
+    "@vue/eslint-config-standard": "5.1.0",
+    "babel-eslint": "10.0.3",
+    "babel-helper-vue-jsx-merge-props": "2.0.3",
+    "changelog-sn": "2.1.8",
+    "compression-webpack-plugin": "5.0.0",
+    "core-js": "3.6.4",
+    "eslint": "6.8.0",
+    "eslint-plugin-import": "2.20.0",
+    "eslint-plugin-node": "11.0.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-standard": "4.0.1",
+    "eslint-plugin-vue": "6.1.2",
+    "fs-extra": "9.0.1",
+    "json-templater": "1.2.0",
+    "less": "4.1.1",
+    "less-loader": "10.0.1",
+    "mini-css-extract-plugin": "0.9.0",
+    "optimize-css-assets-webpack-plugin": "5.0.3",
+    "prettier": "2.1.0",
+    "select-version-cli": "0.0.2",
+    "stylus": "0.54.7",
+    "stylus-loader": "3.0.2",
+    "uppercamelcase": "3.0.0",
+    "vue-lazyload": "1.3.3",
+    "vue-template-compiler": "2.6.11",
+    "zip-local": "0.3.4"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": "./.czconfigrc.js"
+    }
+  }
+}

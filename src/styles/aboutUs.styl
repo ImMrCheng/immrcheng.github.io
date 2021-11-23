@@ -1,0 +1,118 @@
+.aboutUs-page {
+  min-width: 1200px;
+  overflow: hidden;
+  margin: 0 auto;
+  .header-banner {
+    height: 420px
+    width: 100%;
+    background-image: url(../assets/images/aboutUs/banner.png);
+    background-repeat no-repeat;
+    background-position center;
+    background-size cover;
+  }
+  .tabs-area {
+    &_header {
+      height: 60px;
+      text-align: center;
+      border-bottom: 1px solid #EEEEEE;
+      box-sizing: border-box;
+      padding-top: 1px;
+      .el-button {
+        padding: 20px;
+        margin: 0 70px;
+        border-radius: 0;
+        color: #666;
+        font-size: 16px;
+        // &:nth-child(2) {
+        //   margin: 0 150px;
+        // }
+        &.is-current {
+          border-bottom: 2px solid #7C2B92;
+          color: #7C2B92;
+        }
+      }
+    }
+    &_body {
+      overflow: hidden;
+      width: 1200px;
+      margin: 60px auto;
+      .company-header {
+        font-size: 32px;
+        color: #333;
+        text-align: center;
+        margin-bottom: 40px;
+      }
+      .company-profile {
+        .process-carousel {
+          border-radius: 4px;
+        }
+        &_descrip {
+          margin: 40px 0;
+          font-size: 16px;
+          line-height: 36px;
+          color: #333;
+        }
+        &_bottom {
+          display: flex;
+          justify-content: space-between;
+          &_vision,&_target {
+            width: 580px;
+            height: 300px;
+            background-size: 100% 100%;
+            box-sizing: border-box;
+            padding: 30px;
+            border-radius: 4px;
+            transition: background-size 1s,background-position 1s;
+            &:hover {
+              background-size: 110% 110%;
+              background-position: -20px -20px;
+            }
+            .title {
+              font-size: 24px;
+              font-weight: bold;
+              line-height: 36px;
+              color: white;
+              text-shadow: 0px 1px 4px 0px #000000;
+              margin-bottom: 8px;
+            }
+            .sub {
+              font-size: 18px;
+              line-height: 32px;
+              color: white;
+              text-shadow: 0px 1px 4px 0px #000000;
+            }
+          }
+          &_vision {
+            background-image: url('../assets/images/aboutUs/bg-1.png');
+          }
+          &_target {
+            background-image: url('../assets/images/aboutUs/bg-2.png');
+          }
+        }
+      }
+      .company-honor {
+        &_body {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          margin-bottom: -50px;
+          &_card {
+            margin-bottom: 50px;
+            &_title,&_subtitle {
+              font-size: 18px;
+              line-height: 36px;
+              font-weight: bold;
+              text-align: center;
+            }
+            &_subtitle {
+              font-weight: normal;
+              margin-bottom: 30px;
+            }
+          }
+        }
+      }
+      .company-history {
+      }
+    }
+  }
+}
